@@ -6,3 +6,7 @@ lapar
 dan
 nak
 makan
+
+Nak
+makan
+Pau
